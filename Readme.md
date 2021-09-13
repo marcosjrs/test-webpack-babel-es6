@@ -3,14 +3,14 @@
 npm init -y
 ```
 
-## Vamos a url https://webpack.js.org/guides/installation/
+## Basado en lo mostrado en la url https://webpack.js.org/guides/installation/
 
 ```
 npm install --save-dev webpack
 npm install --save-dev webpack-cli
 ```
 
-## Vamos a url https://webpack.js.org/guides/getting-started/
+## Basado en lo mostrado en la url https://webpack.js.org/guides/getting-started/
 Apartado donde dice como crear el archivo webpack.config.js y su contenido.
 Se modificó el entry path.resolve.... quedando: 
 
@@ -27,7 +27,7 @@ module.exports = {
 ```
 
 
-## Vamos a url https://babeljs.io/setup#installation , seleccionando webpack y siguiendo los siguientes pasos que indica
+## Basado en lo mostrado en la url https://babeljs.io/setup#installation , seleccionando webpack y siguiendo los siguientes pasos que indica
 
 ```
 npm install --save-dev babel-loader @babel/core
